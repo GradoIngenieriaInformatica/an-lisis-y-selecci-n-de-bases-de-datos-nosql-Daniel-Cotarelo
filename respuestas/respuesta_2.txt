@@ -1,1 +1,9 @@
-TIPO | Justificación corta
+Ejercicio 2
+
+Servicio de autenticación que gestiona sesiones temporales con acceso ultrarrápido por clave.
+
+Respuesta: Base de datos Clave–Valor (NoSQL).
+
+Justificación:  
+Las sesiones se identifican por una clave (token, id de sesión) y se requiere acceso directo y muy rápido.  
+Los datos son temporales y pueden expirar, lo que encaja con un almacén Clave–Valor con TTL.
