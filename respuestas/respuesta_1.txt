@@ -1,9 +1,1 @@
-Ejercicio 1
-
-Sistema de recomendaciones basado en relaciones entre productos, usuarios y patrones de compra.
-
-Respuesta: Base de datos de grafos (NoSQL).
-
-Justificación:  
-El valor del sistema está en las relaciones entre usuarios, productos y compras.  
-Se necesitan analizar conexiones y patrones relacionales (quién compra qué, productos relacionados, etc.), algo que un grafo modela de forma natural.
+Base de datos de grafos (NoSQL) | El sistema se basa en relaciones entre usuarios, productos y patrones de compra. El análisis depende de conexiones y recorridos entre entidades, algo que un modelo de grafos gestiona de forma natural y eficiente.

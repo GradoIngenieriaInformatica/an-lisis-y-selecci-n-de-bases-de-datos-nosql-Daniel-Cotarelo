@@ -1,9 +1,1 @@
-Ejercicio 3
-
-Aplicación que almacena logs de eventos con consultas cronológicas y agregaciones por ventanas de tiempo.
-
-Respuesta: Base de datos columnar (NoSQL).
-
-Justificación:  
-Se manejan grandes volúmenes de eventos y se realizan consultas analíticas por rangos de tiempo.  
-Las agregaciones por ventanas temporales y la lectura intensiva sobre columnas concretas encajan con un modelo columnar.
+Base de datos columnar (NoSQL) | Se almacenan grandes volúmenes de logs y se realizan consultas cronológicas con agregaciones por ventanas de tiempo. El predominio de lecturas analíticas y resúmenes encaja con una base orientada a columnas.
