@@ -1,1 +1,1 @@
-TIPO | Justificación corta
+COLUMNAR | Se almacenan grandes volúmenes de logs y se realizan consultas cronológicas con agregaciones por ventanas de tiempo. El predominio de lecturas analíticas y resúmenes encaja con una base orientada a columnas.

@@ -1,1 +1,1 @@
-TIPO | Justificación corta
+CLAVE-VALOR | Se requiere acceso ultrarrápido mediante una clave de sesión y los datos son temporales. No existen relaciones complejas ni consultas avanzadas, por lo que un modelo Clave–Valor con expiración es adecuado.

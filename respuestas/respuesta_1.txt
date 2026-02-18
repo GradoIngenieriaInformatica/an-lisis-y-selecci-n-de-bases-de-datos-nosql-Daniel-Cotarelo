@@ -1,1 +1,1 @@
-TIPO | Justificación corta
+GRAFOS | El sistema se basa en relaciones entre usuarios, productos y patrones de compra. El análisis depende de conexiones y recorridos entre entidades, algo que un modelo de grafos gestiona de forma natural y eficiente.
