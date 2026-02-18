@@ -1,1 +1,1 @@
-Base de datos Clave–Valor (NoSQL) | Se requiere acceso ultrarrápido mediante una clave de sesión y los datos son temporales. No existen relaciones complejas ni consultas avanzadas, por lo que un modelo Clave–Valor con expiración es adecuado.
+CLAVE-VALOR | Se requiere acceso ultrarrápido mediante una clave de sesión y los datos son temporales. No existen relaciones complejas ni consultas avanzadas, por lo que un modelo Clave–Valor con expiración es adecuado.
